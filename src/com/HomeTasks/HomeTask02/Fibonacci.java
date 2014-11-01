@@ -1,4 +1,4 @@
-package com.homeTask.tasks.homeTask2;
+package com.HomeTasks.HomeTask02;
 
 public class Fibonacci{
     public static void main(String[]args){
